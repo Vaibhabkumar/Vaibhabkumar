@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>Building projects in Java, Python, and C<br><br>Strengthening DSA & problem-solving<br><br>Exploring Cloud Computing (Azure) and DevOps basics<br><br>👯 I’m looking to collaborate on<br><br>Beginner–intermediate software development projects<br><br>Cloud-based applications<br><br>College-level tech & innovation ideas<br><br>🤝 I’m looking for help with<br><br>Advanced Data Structures & Algorithms<br><br>Real-world cloud architecture & deployment<br><br>Open-source contribution guidance<br><br>🌱 I’m currently learning<br><br>Microsoft Azure (AZ-900)<br><br>Backend development concepts<br><br>System design fundamentals<br><br>💬 Ask me about<br><br>Java & Python basics<br><br>Exam-oriented engineering subjects<br><br>Tech learning roadmaps for beginners<br><br>⚡ Fun fact<br><br>I believe consistency beats talent, and I learn something new every day 🚀🔭 I’m currently working on<br><br>Building projects in Java, Python, and C<br><br>Strengthening DSA & problem-solving<br><br>Exploring Cloud Computing (Azure) and DevOps basics<br><br>👯 I’m looking to collaborate on<br><br>Beginner–intermediate software development projects<br><br>Cloud-based applications<br><br>College-level tech & innovation ideas<br><br>🤝 I’m looking for help with<br><br>Advanced Data Structures & Algorithms<br><br>Real-world cloud architecture & deployment<br><br>Open-source contribution guidance<br><br>🌱 I’m currently learning<br><br>Microsoft Azure (AZ-900)<br><br>Backend development concepts<br><br>System design fundamentals<br><br>💬 Ask me about<br><br>Java & Python basics<br><br>Exam-oriented engineering subjects<br><br>Tech learning roadmaps for beginners<br><br>⚡ Fun fact<br><br>I believe consistency beats talent, and I learn something new every day 🚀
-
+🔭 Working on: Java, Python, C projects | DSA | Cloud (Azure) & DevOps
+👯 Collaborate on: Software projects, cloud apps & tech ideas
+🤝 Need help with: Advanced DSA, cloud deployment & open source
+🌱 Learning: Azure (AZ-900), backend development & system design
+💬 Ask me about: Java, Python & beginner tech roadmaps
+⚡ Fun fact: Consistency beats talent—I learn daily 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Vaibhab_kumar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhabkumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iitdreamerzerotohero@gmail.com) 
